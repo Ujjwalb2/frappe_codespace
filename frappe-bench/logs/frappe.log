@@ -1,0 +1,36 @@
+2024-05-16 10:15:12,229 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"name":1,"owner":"Administrator","creation":"2024-05-16 15:38:52.219623","modified":"2024-05-16 15:38:52.219623","modified_by":"Administrator","docstatus":0,"idx":0,"name1":"rfe","phone":"rfvgv","dl":"revrt","doctype":"driver","__last_sync_on":"2024-05-16T10:15:05.145Z","last_naem":"fvsr","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:33:44,917 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-azgividajl","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"s50","colour":"red","license":"vecdsa"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:33:54,637 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-azgividajl","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"s50","colour":"rede3","license":"vecdsa"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:34:55,208 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-azgividajl","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"s50","colour":"rede3","license":"vecdsa"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:35:10,993 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-azgividajl","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"s50","colour":"rede3","license":"vecdsa"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:36:40,642 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"name":"bini7sr8vh","owner":"Administrator","creation":"2024-05-17 12:05:29.808901","modified":"2024-05-17 12:05:29.808901","modified_by":"Administrator","docstatus":0,"idx":0,"title":"s50 , bini7sr8vh","name1":"BMW","model":"s50","colour":"rede3","license":"vecdsa","doctype":"vehicle","__last_sync_on":"2024-05-17T06:36:23.051Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:37:08,107 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-eiwwtaynvg","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"s50","colour":"red","license":"egfdw"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:37:49,096 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-eiwwtaynvg","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"s50","colour":"red","license":"egfdw"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:39:13,365 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-afwhbcrfji","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"S50"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 06:39:14,979 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"vehicle","name":"new-vehicle-afwhbcrfji","__islocal":1,"__unsaved":1,"owner":"Administrator","name1":"BMW","model":"S50"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 09:17:29,691 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Notification","name":"new-notification-yznmvvvnhr","__islocal":1,"__unsaved":1,"owner":"Administrator","enabled":1,"channel":"System Notification","is_standard":1,"event":"New","days_in_advance":0,"send_system_notification":0,"send_to_all_assignees":0,"recipients":[{"docstatus":0,"doctype":"Notification Recipient","name":"new-notification-recipient-bhlagvznyz","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-notification-yznmvvvnhr","parentfield":"recipients","parenttype":"Notification","idx":1,"__unedited":false,"receiver_by_role":"System Manager"}],"message_type":"Markdown","message":"","attach_print":0,"__newname":"New Booking Arrived!","subject":"{{doc.customer_name}} booked a vehicle","document_type":"Ride Booking","module":"rent"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-17 09:17:43,513 ERROR frappe New Exception collected in error log
+Site: irfan.cab
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Notification","name":"new-notification-yznmvvvnhr","__islocal":1,"__unsaved":1,"owner":"Administrator","enabled":1,"channel":"System Notification","is_standard":1,"event":"New","days_in_advance":0,"send_system_notification":0,"send_to_all_assignees":0,"recipients":[{"docstatus":0,"doctype":"Notification Recipient","name":"new-notification-recipient-bhlagvznyz","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-notification-yznmvvvnhr","parentfield":"recipients","parenttype":"Notification","idx":1,"__unedited":false,"receiver_by_role":"System Manager"}],"message_type":"Markdown","message":"","attach_print":0,"__newname":"New Booking Arrived!","subject":"{{doc.customer_name}} booked a vehicle","document_type":"Ride Booking","module":"rent"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
